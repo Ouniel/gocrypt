@@ -1,6 +1,7 @@
 # 🔐 GoCrypt 全能密码加解密工具
 
-<p align="center"> <img alt="Go版本" src="https://img.shields.io/badge/Go-1.20%2B-blue"> <img alt="多平台支持" src="https://www.google.com/search?q=https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%252FLinux%252FmacOS-green"> <img alt="开源协议" src="https://img.shields.io/badge/许可-Apache-orange"> </p>
+<p align="center"> <img alt="Go版本" src="https://img.shields.io/badge/Go-1.20%2B-blue"> 
+  <img alt="开源协议" src="https://img.shields.io/badge/许可-Apache2.0-orange"> </p>
 
 > 专为 CTF 选手和安全研究人员打造的瑞士军刀级密码工具，集成了数十种古典密码、现代编码及哈希破解功能。
 
